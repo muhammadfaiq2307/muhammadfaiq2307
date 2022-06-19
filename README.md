@@ -1,13 +1,6 @@
 ## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="17px"> Hello! 
 
-<a href="https://github.com/muhammadfaiq2307/muhammadfaiq2307">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammmadfaiq2307&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/muhammadfaiq2307/muhammadfaiq2307">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadfaiq2307&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Faiq's GitHub Stats" />
-</a>
-
-My name is Faiq and I'm a third-year Information System and Technology student at Bandung Institute of Technology.
+My name is Faiq and I'm a third-year Information System and Technology student at Bandung Institute of Technology. Currently exploring DevOps, Cloud Native, and Cybersecurity.
 
 ## 💼 Experiences
 | Role | Type | Company/Institution | Duration |
