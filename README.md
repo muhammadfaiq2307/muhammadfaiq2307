@@ -16,5 +16,5 @@ My name is Faiq and I'm a final year Information System and Technology student a
 | Full-stack Web App | Front-end Developer | Event Information & Online Competition Site | Next.js, Google APIs | [10th Industrial Engineering Competition 2022](https://www.iecom.asia/) |
 
 ### 💬 Contact
-Email: 18219013@std.stei.itb.ac.id<br>
+Email: mfaiq2307@gmail.com<br>
 Linkedin: https://www.linkedin.com/in/muhammadfaiqdhiya/
